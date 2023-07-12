@@ -1,0 +1,22 @@
+.main {
+
+    .container {
+        width: 1440px;
+        margin: 0 auto;
+        height: 100vh;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+}
+
+.img_container {
+    width: 1440px;
+    height: 960px;
+    position: relative;
+    overflow: hidden;
+    img{
+        width: 1440px;
+        position: absolute;
+    }
+}
